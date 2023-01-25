@@ -10,7 +10,6 @@ Working on:
 
 Find me online:
 - 🌐 [Homepage](https://hmetcalfe1.wordpress.com/)
-- 🐦 [Twitter](https://twitter.com/HMetcalfe1)
 - 🐘 <a rel="me" href="https://mastodonapp.uk/@hmetcalfe">Mastodon</a>
 - 🟢 [OrcID](https://orcid.org/0000-0002-2862-0266)
 - 🎓 [Google Scholar](https://scholar.google.co.uk/citations?user=KznSxocAAAAJ&hl=en&oi=sra)
