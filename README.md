@@ -9,7 +9,6 @@ Working on:
 - 🗺️ Spatial statistics
 
 Find me online:
-- 🌐 [Homepage](https://hmetcalfe1.wordpress.com/)
-- 🐘 <a rel="me" href="https://mastodonapp.uk/@hmetcalfe">Mastodon</a>
+- 🌐 [Homepage](https://tana.pub/IlqZfw5U7HT5/dr-helen-metcalfe)
 - 🟢 [OrcID](https://orcid.org/0000-0002-2862-0266)
 - 🎓 [Google Scholar](https://scholar.google.co.uk/citations?user=KznSxocAAAAJ&hl=en&oi=sra)
